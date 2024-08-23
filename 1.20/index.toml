@@ -162,11 +162,6 @@ hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
 
 [[files]]
-file = "mods/chirpys-wildlife.pw.toml"
-hash = "068c886863d091b9cb016f137d123556c4559d385ac27e0838cc31d2708b5d4d"
-metafile = true
-
-[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "076b551003da4d0fce850357a9756ed8edcb632a1b78f911c4726c9b3f28ff16"
 metafile = true
@@ -510,6 +505,10 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "7850317938a0baec5c66aef8a3bb0b253221c578e29c3c0afc4a3b7f7ce62fac"
 metafile = true
+
+[[files]]
+file = "mods/wildlife-1.20.1-2.2.jar"
+hash = "1bd5af612b5370626fbc645629c4c630d08c162a2301136f1304b5681f9b2092"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
