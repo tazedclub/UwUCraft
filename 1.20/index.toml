@@ -162,6 +162,11 @@ hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
 
 [[files]]
+file = "mods/chirpys-wildlife.pw.toml"
+hash = "068c886863d091b9cb016f137d123556c4559d385ac27e0838cc31d2708b5d4d"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "076b551003da4d0fce850357a9756ed8edcb632a1b78f911c4726c9b3f28ff16"
 metafile = true
@@ -222,6 +227,11 @@ hash = "970a31dfcdfcea353fbd2b79fd5a21dc4e1b15113fb7f26e6b8caecd7d0ca354"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "9b3bea54a03323d144c7c8bc854c95dc2320862e6746396c720c907b3fbe144a"
+metafile = true
+
+[[files]]
 file = "mods/enhancedblockentities.pw.toml"
 hash = "791b219b8e844a4154595c87708e6120ba031fefb9503ee93de3c1c810cf156f"
 metafile = true
@@ -243,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -282,6 +292,11 @@ hash = "6a8154ef8806ca83de866f75f55098807b1820e3167e1c91b03b716e552c785b"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "5931ad1296bddf7174c5bb30a2fdb3e11fd1c3da08db32001480f4d0b7b1efda"
 metafile = true
@@ -289,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "a9e7c255b7db9c560bb2042b92d9539a08723bd7d990b2bdf5c8bd43b3b5d48a"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "37df6121a88ff123078242134b0112c863cd219b6ce80bd4ec79c82a3bb4d8fa"
 metafile = true
 
 [[files]]
@@ -419,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "0d8bcedd786af8fd019f31437e288e6cebebdf19700777945887a005792b81a4"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "14f25fae14eb85a16c17bc8f0b87acbba51fc9f6a3253c8bd153e0e2348cd34b"
 metafile = true
 
 [[files]]
