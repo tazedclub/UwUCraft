@@ -10,7 +10,7 @@ hash = "57783f850a71e372ac2d8b8503a519c5c1cceedf70420d0d34f97326b2c2fb06"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d62a48324958d3875955f430007586c200a81d0cda5217aeea5f06d13a83b56e"
+hash = "b94cc4f6fbc96172c3651b32d11a99ef13462adaa3d0ba6ab78a424ffd4127f0"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -39,6 +39,10 @@ hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 [[files]]
 file = "config/yosbr/config/controlify.json"
 hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
+
+[[files]]
+file = "config/yosbr/config/craftpresence.json"
+hash = "d32f853db4cd6d3de1a4f190887e9cbf3c8ddda863afc1a30dd836e3f8607bda"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -70,7 +74,7 @@ hash = "f0fa91c42d9a753f8f2773f193864fe248fe1a3527189d1490a0e0094bcd7049"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+hash = "ed04a99a82e07249a019e70912e6bd82b872db663dff61b6e282fb36981104d4"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
@@ -110,11 +114,21 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f6fdfbe3c9c106b84c114343a013aa98503a05bb2df33939cec6ae11c8a99494"
+hash = "bda596369f3c0b803d2da4456a50743b7b588597aea19d48ebe9fddba6708444"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "95bc4128a357ce2144f7d87da25de85a2235131e459b68b7739d0a049d59c0bb"
+metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "64bd5d96962a888bad88a8e3817c28e41d2d6ec768bbe03b6804b8cf1c5141bb"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "93a1253ad002079a321f75e5d1674dea97e582462909641c3b8b4ead0997bc78"
 metafile = true
 
 [[files]]
@@ -145,6 +159,16 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "ba6f77a067a7c7a434a8a73a9566ac3eecb7f3cb72717c63dcb062bd5d0d7ab9"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "701ab31817a06cf713a743ab1fb6ebec1c30b46c029a223a8ab0b7635ab0a430"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "fb656204c3eb267b4d485f33409a7b6ab2ad10164589e4838ee4175062139c01"
 metafile = true
 
 [[files]]
@@ -208,6 +232,11 @@ hash = "9320866236b43f1a6610e0656a504ab5fc45df2b5bf0b42df5cbfbac2e9f221e"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "6ff05404cca11475e2e4b436b092a61cef75e36af38ee9931c009dcc8734e77a"
 metafile = true
@@ -240,6 +269,16 @@ metafile = true
 [[files]]
 file = "mods/isxander-main-menu-credits.pw.toml"
 hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "93c5aad1ccac21e00dc01317ccac6bae3553f2c9e8a8887b070bdc3233f44189"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "3926671bea4e03262a06aae08fc7772990365d1aef877657b000fa355def8dbc"
 metafile = true
 
 [[files]]
@@ -278,6 +317,11 @@ hash = "d9b8a8fbc2e489a2f719af333e0a57453b71ba9f04a2bf91cdd35a6bb05fc3b6"
 metafile = true
 
 [[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "787932140acd5dbc084182b4da0cbcbfd20988f40c7d31bc3890063e9eb5c0bb"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "67cecae7c6a9e93fa2042ca4cb59c8376f3dcf4c4dd3d1991d2112f949c57b8e"
 metafile = true
@@ -285,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "c22578f4794ef1c7ede2041f58a6ead5687589c42952dff1dc89793a9cfdce33"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "4c1fed6a8d4681c1e00d93786ec775bede5a77317bcf70df92cee9908d8d6891"
 metafile = true
 
 [[files]]
@@ -333,6 +382,26 @@ hash = "444ed719e36bcb706540ebeebbb59cef08ce24ee252f22a1f1ce593ee9ae611c"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "6ba0ad0f13108927b856174a5519d5100338fabca43684dd2ff04eba808017f2"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "71517516b310f3b19d59a866ea0033e73bf0356a88bf6b11fb2502025902e412"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0af9c387516d677e414c99d95eab7cde46e899395316f50b6ff80da966e4143b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
+metafile = true
+
+[[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
 hash = "2d4851ca811654ad314604fd1de51d3e52b2f4a7e81fececd471f30d08d3e7c5"
 metafile = true
@@ -348,8 +417,12 @@ hash = "905fca9fa98f649ecf88aab4b5bf9df5e1c40d8d23a9d78e7775132c48f15297"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Chat Reporting Helper.zip"
-hash = "ee16f29cbc638988b81d87c04dc1abab6fd06cb62d65481edcf393dfe7f46c56"
+file = "resourcepacks/1.18 Nox Carpets.zip"
+hash = "3c6a1d74c803acd558d7b973a0ca0dd8307830fb32c0f1591eb9702916e7ccf0"
+
+[[files]]
+file = "resourcepacks/Better-Leaves-8.0-1.20+.zip"
+hash = "7a697004b1d0201d8567977671b028496156fe01dbea7193cff09a3d5e6b3fa2"
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
@@ -357,13 +430,24 @@ hash = "e952110e87a6a07a1da63a5fa6483577332240da4d8d81f5b4560cc9dbe353dc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Fast Better Grass.zip"
-hash = "40b14a6dd289bfa7f09bad70ba8397fd91cf1b125162128ad6d54e53c3b6446e"
+file = "resourcepacks/FreshAnimations_v1.9.2.zip"
+hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
 
 [[files]]
-file = "resourcepacks/Fast_Better_Grass.pw.toml"
-hash = "290391e0d98878f0a9218891f04e7fd8d6259c8feb032a3c503c75007a3189ef"
-metafile = true
+file = "resourcepacks/Invisible Item Frame Pack_1.20.1-1.0_230720.zip"
+hash = "06bc6db6195a6b84364c019aabb7578798567dff8efeb3f130dd021a3740a188"
+
+[[files]]
+file = "resourcepacks/Kaydicraft 1.0.zip"
+hash = "3a9ae8872934edd371cd88f8f02604a58314d3ea16c898a7605a3cf403456d3e"
+
+[[files]]
+file = "resourcepacks/Mizunos 16 Craft JE CIT_1.20.1-1.0_230720.zip"
+hash = "6336c58ad31cf42f4fd66f59c5106056a30f11cd2ac961d1a6088ce8c8f50c24"
+
+[[files]]
+file = "resourcepacks/Mizunos 16 Craft JE_1.20.4-1.0_230105.zip"
+hash = "fc2ef5c6164b35f9ae5244451b9519198bb56ed8d078d8dd60add762640eb0ec"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
@@ -375,10 +459,22 @@ hash = "f0a3da7ea94db610992f5aa2c9e2857c115ee4cd8ae02af91c5831f6eae3d57c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/SodiumTranslations.zip"
-hash = "bf98535294acf16aa56f2560c7bd9393693cb9fb0c46a61f0da82abf2d1b0b40"
-
-[[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "b85b9c0bed13a4719887b78a757d193c3fa52176a29c5cc37ad0c013e60f0d67"
 metafile = true
+
+[[files]]
+file = "resourcepacks/starrygui_2.2_v1.21.zip"
+hash = "ab4b9b946906d4c09c451547278cacc665077edbd44948b26e7eb222f4f9beee"
+
+[[files]]
+file = "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
+hash = "33dd4636cf1aadc6f326751008e5f871f01794078981f077c2f2ef881fdaa33f"
+
+[[files]]
+file = "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip.txt"
+hash = "165530c08e11f7521340ba02b79aff4d73c612812dc8b4e0c49b3d67f3118bc4"
+
+[[files]]
+file = "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
+hash = "ec9f588d32301b04d38a65fe1753a6c4b3874089ec9f65ffeb8f0c3e2ac994d8"

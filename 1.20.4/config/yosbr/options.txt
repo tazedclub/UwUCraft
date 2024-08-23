@@ -7,9 +7,11 @@ joinedFirstServer:true
 maxFps:260
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/FreshAnimations_v1.9.2.zip","file/Mizunos 16 Craft JE_1.20.4-1.0_230105.zip","file/Better-Leaves-8.0-1.20+.zip","file/Invisible Item Frame Pack_1.20.1-1.0_230720.zip","file/Mizunos 16 Craft JE CIT_1.20.1-1.0_230720.zip","file/Kaydicraft 1.0.zip","file/1.18 Nox Carpets.zip","file/starrygui_2.2_v1.21.zip"]
+incompatibleResourcePacks:["balm-fabric","jei","modernfix","mvs","rrls","waystones","xaeroworldmap","yet_another_config_lib_v3","file/Invisible Item Frame Pack_1.20.1-1.0_230720.zip","file/Mizunos 16 Craft JE CIT_1.20.1-1.0_230720.zip","file/Kaydicraft 1.0.zip","file/1.18 Nox Carpets (1).zip","file/starrygui_2.2_v1.21.zip"]
 incompatibleResourcePacks:["e4mc_minecraft","modernfix","rrls","yet_another_config_lib_v3"]
 simulationDistance:6
+renderDistance:16
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none
