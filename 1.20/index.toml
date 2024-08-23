@@ -132,6 +132,11 @@ hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
 metafile = true
 
 [[files]]
+file = "mods/better-village-fabric.pw.toml"
+hash = "ff24fe8c70db5a26464f64d50098cc4b4924796da829c875a8ad5dd7ffd5526e"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "3c166fe5bb9777c16f216d1858ddfa04fea30076e100ddcbca28e8d026e225fe"
 metafile = true
@@ -154,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/chimes.pw.toml"
 hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
+metafile = true
+
+[[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "076b551003da4d0fce850357a9756ed8edcb632a1b78f911c4726c9b3f28ff16"
 metafile = true
 
 [[files]]
@@ -189,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "aad920620dd6d6c53a13b4461c54677f3c4fea2dc875258174b6ee1ae455c9ca"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
 metafile = true
 
 [[files]]
@@ -322,8 +337,18 @@ hash = "4cece4ee2488febeb295c517aa5f4f42bdec1f9111977e78625a92f6d60088d7"
 metafile = true
 
 [[files]]
+file = "mods/library-ferret-fabric.pw.toml"
+hash = "492487b37012b88c37d3c4a8d5c09b9935720d03956d0da5b62053c848ee737a"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ad5d8867c34cb29afcb8d1d0e3898a6575a7146f97a839029f1a380fab49a629"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "9b150e6964d7b9e7b33cf531aec56b52ab81f6d15ed2362bc5cde2b4f61edc4d"
 metafile = true
 
 [[files]]
