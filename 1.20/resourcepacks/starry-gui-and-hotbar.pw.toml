@@ -1,0 +1,13 @@
+name = "Starry GUI and Hotbar ✨"
+filename = "starrygui-1-3-v1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SGYjthaQ/versions/TFrBVKJc/starrygui-1-3-v1.20.zip"
+hash-format = "sha1"
+hash = "7f9f0a6cab1cebe26fe74f31bc459773c3fd73f5"
+
+[update]
+[update.modrinth]
+mod-id = "SGYjthaQ"
+version = "TFrBVKJc"
