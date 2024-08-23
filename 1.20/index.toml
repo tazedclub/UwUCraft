@@ -292,11 +292,6 @@ hash = "a9e7c255b7db9c560bb2042b92d9539a08723bd7d990b2bdf5c8bd43b3b5d48a"
 metafile = true
 
 [[files]]
-file = "mods/goblin-traders.pw.toml"
-hash = "43e23a2edbf1a30fdcdca0adf171a472eb9b5ae3a488ceedb319280c11229807"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1b77c0bbcf080d6352d9eb46935f353bcbed20f440cacbc5f8dddb4f4c650f17"
 metafile = true
