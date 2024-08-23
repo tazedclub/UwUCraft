@@ -42,7 +42,7 @@ hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
 
 [[files]]
 file = "config/yosbr/config/craftpresence.json"
-hash = "d32f853db4cd6d3de1a4f190887e9cbf3c8ddda863afc1a30dd836e3f8607bda"
+hash = "01e978c98d4c2a869a2711edda91d442f240a15decb6225d37294222ac92170b"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -142,6 +142,16 @@ hash = "08273307f0b1df02aabffcea657747e6308ca00d301c6c0f4cce42818a8f53f5"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "5f4666d8d30ad23a6d1ea39d5ef0491cdf97524b4f74e6aec40fa5882d969616"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "0c8d56b2dca61411c7e48bd55538c265da88ab88c4842f885b2dc6c76d2d5a4b"
+metafile = true
+
+[[files]]
 file = "mods/citresewn.pw.toml"
 hash = "f411a3ef6eecafd74529585a608b33318307734c5ed7f10f78c8ed6b0a5b6cea"
 metafile = true
@@ -213,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c8366724d90311362e376bf43ada35c45a10cd410614779bf0487b788b7972ba"
+hash = "0126ef7b1211888b957bed30375225a8c7b054899134acb0a20d2018e87038ba"
 metafile = true
 
 [[files]]
@@ -397,6 +407,11 @@ hash = "0af9c387516d677e414c99d95eab7cde46e899395316f50b6ff80da966e4143b"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "cb2821d4397816c6813588a3943902e0fede8116ddff3b8fbae3f676f3358b86"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
 metafile = true
@@ -473,7 +488,7 @@ hash = "33dd4636cf1aadc6f326751008e5f871f01794078981f077c2f2ef881fdaa33f"
 
 [[files]]
 file = "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip.txt"
-hash = "165530c08e11f7521340ba02b79aff4d73c612812dc8b4e0c49b3d67f3118bc4"
+hash = "1ff5913cf1d602332f032b302cf75af1ea4d3269bd29a5a1c82165a51e1d3f6d"
 
 [[files]]
 file = "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
