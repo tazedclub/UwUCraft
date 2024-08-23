@@ -407,6 +407,11 @@ hash = "13c3cb285357a1f3814727dc500b1a5849b496c5be4bd34205cb597e3f84eda1"
 metafile = true
 
 [[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "dad9af75cac88d62ff6a811cd36217e8cd070324b74cf956780e221b8c5b588a"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
