@@ -1,0 +1,13 @@
+name = "UwUCraft"
+author = "meludoge"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7449b1bd8a2a497f71a0800d5973180d53cb9e3c2514ff7afb7b921a80c4c8ff"
+
+[versions]
+fabric = "0.16.2"
+minecraft = "1.21.1"
