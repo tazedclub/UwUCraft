@@ -182,11 +182,6 @@ hash = "8adc7b232d37eaa940ea4b832f76ef14c7b88b28a47972cea89c653e939e4e91"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "6263680cbf39e2e45fb7a768965637f8acca2c6b0f426388aabfa899a3b2ed74"
-metafile = true
-
-[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "564c15bc56953f017bcddfa14544b81102682425a8fe96e7a17b5d0ea6c6ce6e"
 metafile = true
