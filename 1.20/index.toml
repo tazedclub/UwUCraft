@@ -357,6 +357,11 @@ hash = "4cece4ee2488febeb295c517aa5f4f42bdec1f9111977e78625a92f6d60088d7"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "7b106db2cfb5a2aad5ac0f3f9282af7b1fcae68cee63f98e50764c38972bf5c6"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-fabric.pw.toml"
 hash = "492487b37012b88c37d3c4a8d5c09b9935720d03956d0da5b62053c848ee737a"
 metafile = true

@@ -22,3 +22,6 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.keypad.add
+key_key.mute_microphone:key.keyboard.m
