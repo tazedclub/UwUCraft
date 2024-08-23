@@ -257,8 +257,18 @@ hash = "638295e4eb1954f9df3f79121df3a240b2c63f1ba393561737f626e98f1a27e4"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "6c1afc120481f3af9d744c35e62fc2d33391620492fbbb93c0e54e088e3a0d26"
+metafile = true
+
+[[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "31e3db7c895d5a4bcbaf68c196036b6b345264ab18ed74437a46819345ea4e01"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "43e23a2edbf1a30fdcdca0adf171a472eb9b5ae3a488ceedb319280c11229807"
 metafile = true
 
 [[files]]
