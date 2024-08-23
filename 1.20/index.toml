@@ -137,6 +137,11 @@ hash = "3c166fe5bb9777c16f216d1858ddfa04fea30076e100ddcbca28e8d026e225fe"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "2a2c7b00cfe1337318d55a4b8864dc14f6fc34c6d25825c3a23af983fe8abc89"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "811740ce971ce642160cefacd851e634699f80651484df9f383d1891b0f6ba29"
 metafile = true
@@ -377,6 +382,16 @@ hash = "86b5545dd9093aef26218696b10a7c8b37935d342a9e783e73add7313f37cc05"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "23a57b5ae7cfd354944e9339727c65a898889f0227fde0debcaecf089560144f"
 metafile = true
@@ -414,6 +429,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
