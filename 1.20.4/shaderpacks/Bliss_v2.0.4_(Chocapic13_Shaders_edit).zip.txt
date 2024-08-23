@@ -1,2 +1,4 @@
 #Fri Aug 23 16:43:50 CEST 2024
 WAVY_SPEED=0.8
+Biome_specific_environment=false
+Cave_fog=false
