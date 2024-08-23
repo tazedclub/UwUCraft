@@ -297,6 +297,11 @@ hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "5931ad1296bddf7174c5bb30a2fdb3e11fd1c3da08db32001480f4d0b7b1efda"
 metafile = true
@@ -309,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "37df6121a88ff123078242134b0112c863cd219b6ce80bd4ec79c82a3bb4d8fa"
+metafile = true
+
+[[files]]
+file = "mods/goblintraders-fabric.pw.toml"
+hash = "32ee7a7170ed798a1e4d8b4bd98d3659566615f8c189f70ea58419a39dce1c42"
 metafile = true
 
 [[files]]
