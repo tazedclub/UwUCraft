@@ -137,11 +137,6 @@ hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
 metafile = true
 
 [[files]]
-file = "mods/better-village-fabric.pw.toml"
-hash = "ff24fe8c70db5a26464f64d50098cc4b4924796da829c875a8ad5dd7ffd5526e"
-metafile = true
-
-[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "3c166fe5bb9777c16f216d1858ddfa04fea30076e100ddcbca28e8d026e225fe"
 metafile = true
@@ -183,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f2eb1dd22fc91fb3e47c15cf580d5cc3922ed024fe53f2815964505473469528"
+hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
@@ -299,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
+metafile = true
+
+[[files]]
+file = "mods/forgotten-graves.pw.toml"
+hash = "4d7f963588ac8c886a22ef9544f20cbac6f5a36cf612004622f95546a7665104"
 metafile = true
 
 [[files]]
@@ -469,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "86573af88ee3403e8da7b0909abef70c9efd63e7bdde0ecc68231b304976b57f"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a4eebd26b7767eb5edadc845910c2f11a7e42545445c14df2ebcc05c67ebf473"
 metafile = true
 
 [[files]]
