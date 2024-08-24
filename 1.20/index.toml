@@ -42,7 +42,7 @@ hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
 
 [[files]]
 file = "config/yosbr/config/craftpresence.json"
-hash = "01e978c98d4c2a869a2711edda91d442f240a15decb6225d37294222ac92170b"
+hash = "8c45aee87f4ba55767552f2292858ec5c773b8670b29bc3430a13d4a22b202e5"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -111,6 +111,10 @@ hash = "ade080447491d2a630c65b7343df636833f8283fe5af9db74b51c4e122bf0550"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "d06e15dbe4311847a6aec75e24a59fd36ac087f8e4a22a7c261740c33e59d703"
 
 [[files]]
 file = "config/yosbr/options.txt"
