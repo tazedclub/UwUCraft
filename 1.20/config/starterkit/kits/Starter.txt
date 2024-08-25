@@ -3,7 +3,7 @@
 'legs' : '',
 'feet' : '',
 'offhand' : '',
-0 : '{Count:1b,id:"waystones:waystone"}',
+0 : '{Count:1b,id:"waystones:sharestone"}',
 1 : '',
 2 : '',
 3 : '',
