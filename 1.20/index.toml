@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
@@ -387,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/library-ferret-fabric.pw.toml"
 hash = "492487b37012b88c37d3c4a8d5c09b9935720d03956d0da5b62053c848ee737a"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "3f384662dcf6962e7a02e2e824c543ab167d9cf8b6299e62f5ca69f8048af99f"
 metafile = true
 
 [[files]]
