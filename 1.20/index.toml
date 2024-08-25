@@ -14,7 +14,7 @@ hash = "b94cc4f6fbc96172c3651b32d11a99ef13462adaa3d0ba6ab78a424ffd4127f0"
 
 [[files]]
 file = "config/starterkit/kits/Starter.txt"
-hash = "d1e325b5f3866470f2295a628eb26556fe2949630775d503ca490f1d0e3cc5f3"
+hash = "ab373b1dcd5e9cea3992da4f3220a41c45bc41483faadc3627d482c8f7152041"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
