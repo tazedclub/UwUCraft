@@ -13,6 +13,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "b94cc4f6fbc96172c3651b32d11a99ef13462adaa3d0ba6ab78a424ffd4127f0"
 
 [[files]]
+file = "config/starterkit/kits/Starter.txt"
+hash = "d1e325b5f3866470f2295a628eb26556fe2949630775d503ca490f1d0e3cc5f3"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -178,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "9877a4268206623fd1059d4d2a5735385a7d69ac400e0446f8d29f039a66e6d7"
 metafile = true
 
 [[files]]
@@ -493,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "13c3cb285357a1f3814727dc500b1a5849b496c5be4bd34205cb597e3f84eda1"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "5f12c5aad75b4ec221a35836e4f2ceb8f3ac26dc075aff6480ccb474b45f8355"
 metafile = true
 
 [[files]]
