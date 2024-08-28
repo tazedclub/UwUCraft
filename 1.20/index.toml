@@ -13,7 +13,11 @@ file = "config/isxander-main-menu-credits.json"
 hash = "b94cc4f6fbc96172c3651b32d11a99ef13462adaa3d0ba6ab78a424ffd4127f0"
 
 [[files]]
-file = "config/starterkit/kits/Starter.txt"
+file = "config/starterkit/descriptions/Default.txt"
+hash = "7964636fd65f998faf33365732941fb290fd57a305ae3620ee1ae53c3b941be2"
+
+[[files]]
+file = "config/starterkit/kits/Default.txt"
 hash = "ab373b1dcd5e9cea3992da4f3220a41c45bc41483faadc3627d482c8f7152041"
 
 [[files]]
@@ -47,6 +51,10 @@ hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
 [[files]]
 file = "config/yosbr/config/craftpresence.json"
 hash = "8c45aee87f4ba55767552f2292858ec5c773b8670b29bc3430a13d4a22b202e5"
+
+[[files]]
+file = "config/yosbr/config/creeper_firework.json5"
+hash = "e3eee4cd1fc781f8f488e6b14cd421fbdc279c6eed617f8345a5c59fdc2d613a"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -145,6 +153,11 @@ hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
 metafile = true
 
 [[files]]
+file = "mods/better-farming-right-click.pw.toml"
+hash = "9775f1eb7d13bb1861710a1f29defc9908840ecd3493da90d3bb78415c9b1bd1"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "3c166fe5bb9777c16f216d1858ddfa04fea30076e100ddcbca28e8d026e225fe"
 metafile = true
@@ -165,6 +178,11 @@ hash = "41e4a989d8dbae537a86f95008a4ca7d7126d17e9cdf50ad1b6c19759666c773"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight-fabric.pw.toml"
+hash = "463940fb8de3fb34480eec0d2405428dfd70732cfda966bcf6de2a9e846e7fff"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
@@ -181,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -197,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "564c15bc56953f017bcddfa14544b81102682425a8fe96e7a17b5d0ea6c6ce6e"
+metafile = true
+
+[[files]]
+file = "mods/creeper-firework.pw.toml"
+hash = "d19f8a815b5348a39e8ea31b32959dfb7945c12cde6cba9907b6e3ffc5bd6e20"
 metafile = true
 
 [[files]]
@@ -261,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+hash = "130d2b078d1a73c86271a0222fcefbd24f5f816df37d94fa780d37a5f1605119"
 metafile = true
 
 [[files]]
@@ -277,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "28649c624258849191a6c0b0a1ba5479870bf9c14748bd6cc08dafd3d42e110a"
 metafile = true
 
 [[files]]
@@ -330,6 +358,11 @@ hash = "32ee7a7170ed798a1e4d8b4bd98d3659566615f8c189f70ea58419a39dce1c42"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "af771ac72b8e3391bde0e14afb849d926bf924f6ed50f05f78ac88cff8d5a627"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1b77c0bbcf080d6352d9eb46935f353bcbed20f440cacbc5f8dddb4f4c650f17"
 metafile = true
@@ -362,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "6097359f4b61dfac75448a03caa23d8e2c8fda8875fd9c099411715792f1c8d7"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "65b802e63cc0e8f9fdc30e72e1d1ac53c4d8df2b27d51610944fe36f014495ff"
 metafile = true
 
 [[files]]
@@ -510,6 +548,11 @@ hash = "13c3cb285357a1f3814727dc500b1a5849b496c5be4bd34205cb597e3f84eda1"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "b927c53d954f1faf0bd11067eeacf0f1ea8b986c14660b49654dae2662213ff7"
+metafile = true
+
+[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "5f12c5aad75b4ec221a35836e4f2ceb8f3ac26dc075aff6480ccb474b45f8355"
 metafile = true
@@ -517,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "dad9af75cac88d62ff6a811cd36217e8cd070324b74cf956780e221b8c5b588a"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "813a19cb4f0893149db105abb01c2c5387709a59adae551f6c830a793ccbbf03"
 metafile = true
 
 [[files]]
@@ -542,16 +590,6 @@ metafile = true
 [[files]]
 file = "mods/wildlife-1.20.1-2.2.jar"
 hash = "1bd5af612b5370626fbc645629c4c630d08c162a2301136f1304b5681f9b2092"
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "86e8fdd0f89d9c0f320dd7197d2943d9beeb4cecc928334f9926cc0305242314"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
-metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
