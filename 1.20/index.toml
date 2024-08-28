@@ -14,7 +14,7 @@ hash = "b94cc4f6fbc96172c3651b32d11a99ef13462adaa3d0ba6ab78a424ffd4127f0"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "d0e2d2ac43b6b307fb0e5a6033ee20f4419c1de4a2d49dc30cdc8031d05ef1f5"
+hash = "3d7568ef6602f2ff424bed3f22108f89fd64c816e689eec58d1feb54d0665a1a"
 
 [[files]]
 file = "config/starterkit/descriptions/Default.txt"
