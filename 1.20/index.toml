@@ -262,6 +262,11 @@ hash = "9b3bea54a03323d144c7c8bc854c95dc2320862e6746396c720c907b3fbe144a"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "645057017936ddc2d2712164654ad63726da0d94632ea4fc09d990bddab95da0"
+metafile = true
+
+[[files]]
 file = "mods/enhancedblockentities.pw.toml"
 hash = "791b219b8e844a4154595c87708e6120ba031fefb9503ee93de3c1c810cf156f"
 metafile = true
@@ -283,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -532,6 +537,16 @@ hash = "dad19a95e37f413b1df1175389432e57ed4bd6a14f5aeb5b548b6c56e9de1278"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "2937f8044610c554d49b4617210885a76d3f81cb9325a36dba6bfbd131cc45ab"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "86573af88ee3403e8da7b0909abef70c9efd63e7bdde0ecc68231b304976b57f"
 metafile = true
@@ -584,6 +599,11 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "2d20f6a82ebae9e199eb516a9972d7dc61489e23502c7c37a166b427fbba4a4d"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "6238bebd69d6d71f66e2f65e4fec2307963a785e2695dfaf15b1f69ab7ea6469"
 metafile = true
 
 [[files]]
