@@ -1,13 +1,13 @@
-name = "Diagonal Fences [Forge & Fabric]"
+name = "Diagonal Fences"
 filename = "DiagonalFences-v21.5.0-1.21.5-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5a519f75bc122f38b39a71ea1c3b9ff3946025d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/IKARgflD/versions/ozPfDzU0/DiagonalFences-v21.5.0-1.21.5-Fabric.jar"
+hash-format = "sha512"
+hash = "32c2379461353b37cba7bcf5a2af517a4d92eb92e4b788610b82e3c2be9477f42297ee033553f27fa9127d1229cb31d01b4e85f61b199ed932d16a0c8e8d9e4b"
 
 [update]
-[update.curseforge]
-file-id = 6389085
-project-id = 458048
+[update.modrinth]
+mod-id = "IKARgflD"
+version = "ozPfDzU0"

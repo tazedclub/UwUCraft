@@ -1,13 +1,13 @@
-name = "Trading Post [Forge & Fabric]"
+name = "Trading Post"
 filename = "TradingPost-v21.5.0-1.21.5-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "26a2b1e0766396f3653efd1c28a3ec7a8b86aa55"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/iw4awAY6/TradingPost-v21.5.0-1.21.5-Fabric.jar"
+hash-format = "sha512"
+hash = "f25e91ea7fc28a1e8e9eb6dc4351508f0b9fafd4db821a2858f94c585215001203b9002948d7bcafe198b51b0649a200e32d64e52df2e3f5744a0a5126e24c2c"
 
 [update]
-[update.curseforge]
-file-id = 6377045
-project-id = 539057
+[update.modrinth]
+mod-id = "8pcjMDgj"
+version = "iw4awAY6"

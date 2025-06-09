@@ -1,13 +1,13 @@
-name = "Diagonal Windows [Forge & Fabric]"
+name = "Diagonal Windows"
 filename = "DiagonalWindows-v21.5.0-1.21.5-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4e572b98881c44ff8a55a3f5d3df4786bfda924c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oOi0CKes/versions/bC9mdPkG/DiagonalWindows-v21.5.0-1.21.5-Fabric.jar"
+hash-format = "sha512"
+hash = "3e119e6f7a3677768b32ac7e9f706dc698b696a00a0e9f786173357ae3a36afa186beb1ebefe218082389bafc2820a7a02c4b410e6b601e524a224154f907d7a"
 
 [update]
-[update.curseforge]
-file-id = 6389080
-project-id = 891328
+[update.modrinth]
+mod-id = "oOi0CKes"
+version = "bC9mdPkG"

@@ -3,11 +3,11 @@ filename = "mcw-doors-1.1.2-mc1.21.5fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d9d6e719d0133c5ff7c406bd0ee4a14ddfc6725f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/oz3NiZfi/mcw-doors-1.1.2-mc1.21.5fabric.jar"
+hash-format = "sha512"
+hash = "71551afdea76f1269c0446f9ee60e4d298d0a15598b2ac4d0d13616646ff730fbd4dd3540315b8ee7f513df9d4258299c1d6577f3a9d43d5485855f94a490721"
 
 [update]
-[update.curseforge]
-file-id = 6358640
-project-id = 378646
+[update.modrinth]
+mod-id = "kNxa8z3e"
+version = "oz3NiZfi"

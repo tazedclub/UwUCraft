@@ -3,11 +3,11 @@ filename = "monolib-fabric-1.21.5-2.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5ad331f90542f4c23ed72c36e7449d378bc4a2ec"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9leXt4A5/versions/Up5nSmNo/monolib-fabric-1.21.5-2.1.0.jar"
+hash-format = "sha512"
+hash = "e29ce29687514b555a3f562a2565931d75d11e3119eea7b38c9023715a94d9f796c79244c03707d73486800f5f789bf362e6d045375952c05a41c14b53d9f3e8"
 
 [update]
-[update.curseforge]
-file-id = 6544187
-project-id = 968432
+[update.modrinth]
+mod-id = "9leXt4A5"
+version = "Up5nSmNo"

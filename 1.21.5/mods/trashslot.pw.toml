@@ -3,11 +3,11 @@ filename = "trashslot-fabric-1.21.5-21.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "650673fe4d497d18e876b465857991577cf4708c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/DGHuEq8F/trashslot-fabric-1.21.5-21.5.1.jar"
+hash-format = "sha512"
+hash = "8f43c7200dbe9706c02e2a04b7bf911064eb1a5aa1aa019c3bd2d3bc6044b13db958ba81f7e72437594033f180e1c5c1132b3ef0d2232ad76e47cb04109857be"
 
 [update]
-[update.curseforge]
-file-id = 6347630
-project-id = 235577
+[update.modrinth]
+mod-id = "vRYk0bv7"
+version = "DGHuEq8F"

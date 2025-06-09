@@ -1,13 +1,13 @@
-name = "Adorable Eggs - New Spawn Eggs and Plushies"
+name = "Adorable Eggs"
 filename = "adorable_eggs-Fabric-1.21.5-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "05952a1ab70418b0703e4e3f000fdb713c189710"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/v1NZJevY/versions/9vXPmFug/adorable_eggs-Fabric-1.21.5-1.0.0.jar"
+hash-format = "sha512"
+hash = "8a184a63e1c80e270da75800314779d8d046716b9ede49858aebd788291745f56fd403b175c3bfae0edd60d289349291487a8c81d083cc25b124656bb5974b2e"
 
 [update]
-[update.curseforge]
-file-id = 6498293
-project-id = 1257245
+[update.modrinth]
+mod-id = "v1NZJevY"
+version = "9vXPmFug"

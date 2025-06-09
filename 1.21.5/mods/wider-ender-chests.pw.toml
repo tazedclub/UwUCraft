@@ -3,11 +3,11 @@ filename = "wither_ender_chests-1.21.X-1.0.3-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "059083b0540e1be7bb2c64f9e305c0173a62cd28"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/EDVt0J2I/versions/sGAr2HSv/wither_ender_chests-1.21.X-1.0.3-fabric.jar"
+hash-format = "sha512"
+hash = "feace942817b5f41490e7e1f8e1b1fd13b51f7f634cca8aacdbbf6df2affa7d2f2d88ab127c33706f0ecd4a4424bcb244160492898f656cae9474177c4128550"
 
 [update]
-[update.curseforge]
-file-id = 6360835
-project-id = 1010456
+[update.modrinth]
+mod-id = "EDVt0J2I"
+version = "sGAr2HSv"

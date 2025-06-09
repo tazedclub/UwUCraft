@@ -3,11 +3,11 @@ filename = "mcw-lights-1.1.2-mc1.21.5fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dafdefeff39ac67e32deec061a8b03ee93c25e2f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/w4an97C2/versions/L9L92XD2/mcw-lights-1.1.2-mc1.21.5fabric.jar"
+hash-format = "sha512"
+hash = "efb776ff0bcd2a9a62bdd8af108d5b78184b084523ffdcf39fc7d52e2d5a74dcf5e58bbfd87d8931791016dcf8b0f5febf9b1b33ce6eb14e527a3de68cb2a35e"
 
 [update]
-[update.curseforge]
-file-id = 6502663
-project-id = 502372
+[update.modrinth]
+mod-id = "w4an97C2"
+version = "L9L92XD2"

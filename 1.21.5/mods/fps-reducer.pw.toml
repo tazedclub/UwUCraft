@@ -1,13 +1,13 @@
 name = "FPS Reducer"
 filename = "FpsReducer2-fabric-1.21.5-2.12.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "02d578e83ac47e61f372baa267378675b0928a0f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/zDXdXvpu/FpsReducer2-fabric-1.21.5-2.12.jar"
+hash-format = "sha512"
+hash = "8b2f89f329193c432978b1fafc9755511b810524eb787839976525604bdabbb02235b4cc93af8f17a0e9db981f97aba56c8003c4d70a9fbd6ac4c8a43c0f20b1"
 
 [update]
-[update.curseforge]
-file-id = 6348754
-project-id = 280294
+[update.modrinth]
+mod-id = "iZ10HXDj"
+version = "zDXdXvpu"

@@ -1,0 +1,13 @@
+name = "Cycle Paintings"
+filename = "cyclepaintings-1.21.5-4.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/c85whkNB/versions/o5iVU0wZ/cyclepaintings-1.21.5-4.1.jar"
+hash-format = "sha512"
+hash = "2865ffa41ea7ae23e932522d77c31c0f3c73cb1c0d42f7724e8aa0b96b50a1ca13a4cd10210f4fff74d417212feb6427a76e0a61454dd8ae3cbcf4d41ddf6566"
+
+[update]
+[update.modrinth]
+mod-id = "c85whkNB"
+version = "o5iVU0wZ"

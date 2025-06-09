@@ -3,11 +3,11 @@ filename = "betterstats-3.13.9+fabric-1.21.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b43dafbdbc2bd057fbcf4d057322a53ddcc9dd0a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/GQDPjDMb/betterstats-3.13.9%2Bfabric-1.21.5.jar"
+hash-format = "sha512"
+hash = "c2645e0aa6159a5811c4c9596ca90927ddf6da1005b344c0621a5e7fec7c48476aa17ffb456db14d969caf148599008cc704c7482ad1ec9f44a947620c355ba1"
 
 [update]
-[update.curseforge]
-file-id = 6347558
-project-id = 667464
+[update.modrinth]
+mod-id = "n6PXGAoM"
+version = "GQDPjDMb"

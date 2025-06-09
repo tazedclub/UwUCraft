@@ -1,0 +1,13 @@
+name = "Quick Right-Click"
+filename = "quickrightclick-1.21.5-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e8mI328p/versions/JCat3BTs/quickrightclick-1.21.5-1.7.jar"
+hash-format = "sha512"
+hash = "63dddbc82555e42229d50a3d8188a7c582bbf47313c093d2ac9082ed821cbadf9e3335968b75513410b93ad5af0e39531fc917a1453c0093ce965ac5fb170299"
+
+[update]
+[update.modrinth]
+mod-id = "e8mI328p"
+version = "JCat3BTs"

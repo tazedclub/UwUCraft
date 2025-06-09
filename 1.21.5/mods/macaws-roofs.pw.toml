@@ -3,11 +3,11 @@ filename = "mcw-roofs-2.3.2-mc1.21.5fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c011db434ba6404e61bdcbe477bb6d1203fcab5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/B8jaH3P1/versions/uDcKPwOZ/mcw-roofs-2.3.2-mc1.21.5fabric.jar"
+hash-format = "sha512"
+hash = "d8b6c169a8fab4aa502d059f65e549066bac1900e67142dede24442ebe70bd096e11b68c8f96f9ef313f11d60b1eee06a24c21c87ce30255e9dcbe0606e21b23"
 
 [update]
-[update.curseforge]
-file-id = 6494439
-project-id = 352039
+[update.modrinth]
+mod-id = "B8jaH3P1"
+version = "uDcKPwOZ"

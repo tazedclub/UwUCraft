@@ -3,11 +3,11 @@ filename = "GlitchCore-fabric-1.21.5-2.5.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d4eec8646f1bcd688b1f8b9aef65abf3d2b01d48"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/u82FWCHx/GlitchCore-fabric-1.21.5-2.5.0.1.jar"
+hash-format = "sha512"
+hash = "84230d498b40a8b3bc52e6e34c18f38fe290425c7f9c80a5525e97cab286fc08290d351874470fd1651bd1b8d55005161ccd74b377acaa1ba5ec9d1ff4cc1b48"
 
 [update]
-[update.curseforge]
-file-id = 6398450
-project-id = 955399
+[update.modrinth]
+mod-id = "s3dmwKy5"
+version = "u82FWCHx"

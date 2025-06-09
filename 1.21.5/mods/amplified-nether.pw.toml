@@ -3,11 +3,11 @@ filename = "Amplified_Nether_1.21.x_v1.2.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ffb74dba7c94b8e23b92468e47e9ee5956907d24"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wXiGiyGX/versions/RWIwVls3/Amplified_Nether_1.21.x_v1.2.8.jar"
+hash-format = "sha512"
+hash = "3965c77707507883fa57fe9d0182494cbdaf75d7f34895a06904bf55f55eac863577635cdd6e32cc49b17963e1a434a3fc2671581bbba86471c68758608b11ec"
 
 [update]
-[update.curseforge]
-file-id = 6402766
-project-id = 552176
+[update.modrinth]
+mod-id = "wXiGiyGX"
+version = "RWIwVls3"

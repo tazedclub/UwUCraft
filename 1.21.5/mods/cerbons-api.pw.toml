@@ -1,13 +1,13 @@
-name = "CERBON's API [Forge | Fabric | NeoForge]"
+name = "CERBON's API"
 filename = "CerbonsAPI-Fabric-1.21.5-1.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ff38eb5a033d772fb0389f538aa2ed287f8295c7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GkIc6rRo/versions/k4JnVlDn/CerbonsAPI-Fabric-1.21.5-1.4.0.jar"
+hash-format = "sha512"
+hash = "8a67c4dd6b1050b2f7fd017a72312f28584d93648a0f96e3b0e6c0b4007c40259e9fe9a136c61aa38658d43785fae71a2c192e5fb92f7307b15509df0fda8e06"
 
 [update]
-[update.curseforge]
-file-id = 6487931
-project-id = 955605
+[update.modrinth]
+mod-id = "GkIc6rRo"
+version = "k4JnVlDn"

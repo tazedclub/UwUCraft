@@ -1,13 +1,13 @@
-name = "Bartering Station [Forge & Fabric]"
+name = "Bartering Station"
 filename = "BarteringStation-v21.5.0-1.21.5-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e20afba6613056ca2d07011b9eb6f4fd0537f73a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/EOig9U0j/versions/YVyLEq8K/BarteringStation-v21.5.0-1.21.5-Fabric.jar"
+hash-format = "sha512"
+hash = "fdcf16f46109a8bd5a1694c9af90ddbdd02d4dba94c8f4292a54f43691bb7b72adb2d45d68e17c2b148010d31ebd68e17969ed8febb8788ba625af486de528c6"
 
 [update]
-[update.curseforge]
-file-id = 6377184
-project-id = 666940
+[update.modrinth]
+mod-id = "EOig9U0j"
+version = "YVyLEq8K"

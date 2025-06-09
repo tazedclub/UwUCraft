@@ -3,11 +3,11 @@ filename = "customizableelytra-fabric-2.2.8+1.21.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0d72a35267fcb196431470320de7b025ed6702d0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/L25fOeGq/versions/QmbaddKF/customizableelytra-fabric-2.2.8%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "435d382eb45462d5f1456a80c0f8594bd55dbdad0e7c4b6dbd9040414a37d15f6cdaf98fa85d9e19d301ccb86048bfba8593d4dcf29303a29cb7e0395db62ef4"
 
 [update]
-[update.curseforge]
-file-id = 6441706
-project-id = 440047
+[update.modrinth]
+mod-id = "L25fOeGq"
+version = "QmbaddKF"

@@ -3,11 +3,11 @@ filename = "disenchanting_table-merged-1.21.5-5.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "626ea289645f8d4949502cdd5aab4b7a1f800214"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9BgYgXE4/versions/Ld7phCGj/disenchanting_table-merged-1.21.5-5.0.2.jar"
+hash-format = "sha512"
+hash = "be9974b014eca23ab270f7e36a3d9afac26eecd2c586471ec7eaf7bc91439b98f51e2cfc907c2ee4538b6ec03e65c19d465a9524d6c9e5969e76a7a619a06b17"
 
 [update]
-[update.curseforge]
-file-id = 6585400
-project-id = 933354
+[update.modrinth]
+mod-id = "9BgYgXE4"
+version = "Ld7phCGj"

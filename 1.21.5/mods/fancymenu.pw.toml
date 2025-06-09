@@ -3,11 +3,11 @@ filename = "fancymenu_fabric_3.5.1_MC_1.21.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0bae2b89f0cf82ca2440f34c387104847ff2f30d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/e1UXIpp8/fancymenu_fabric_3.5.1_MC_1.21.5.jar"
+hash-format = "sha512"
+hash = "56bff9fc0a28a5b9ce1256ab405e29c36369c7e5a4dd73a379d6756682479f50db143d3120aaf547c670e893da19ddeaa0fe54e0c1da30afb8c0cd69dc0186ec"
 
 [update]
-[update.curseforge]
-file-id = 6497682
-project-id = 367706
+[update.modrinth]
+mod-id = "Wq5SjeWM"
+version = "e1UXIpp8"

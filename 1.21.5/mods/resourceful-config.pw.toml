@@ -3,11 +3,11 @@ filename = "ResourcefulConfig-fabric-1.21.5-3.5.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "381f47fab80d86de323dbe8a3be5b463f7212f40"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/dG0tvBGD/ResourcefulConfig-fabric-1.21.5-3.5.7.jar"
+hash-format = "sha512"
+hash = "51442f768c17c60916d806b2ac95ddb38ac67eba5be4c52d47d5b1f04142c8d7f4f5039ac6872f547cc17df7dee576d957be583c05eb9380a045e6e8a97d7ee1"
 
 [update]
-[update.curseforge]
-file-id = 6627197
-project-id = 714059
+[update.modrinth]
+mod-id = "M1953qlQ"
+version = "dG0tvBGD"

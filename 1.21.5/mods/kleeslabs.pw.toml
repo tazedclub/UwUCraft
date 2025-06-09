@@ -1,13 +1,13 @@
 name = "KleeSlabs"
 filename = "kleeslabs-fabric-1.21.5-21.5.1.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "da3cf1a6aaea2e3c6d9de2f8e40b0866f5e727a5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/GTkzTHuw/kleeslabs-fabric-1.21.5-21.5.1.jar"
+hash-format = "sha512"
+hash = "84bc420e45e8b0f7b036e71db39cd220ac2c36ac7fcbed7d986b1493ff32ab6253931f03bbaa026daaa305bd1f1dce064b36399d05f5ef498de40ab3c60f9a3d"
 
 [update]
-[update.curseforge]
-file-id = 6347638
-project-id = 241895
+[update.modrinth]
+mod-id = "7uh75ruZ"
+version = "GTkzTHuw"

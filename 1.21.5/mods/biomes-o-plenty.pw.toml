@@ -3,11 +3,11 @@ filename = "BiomesOPlenty-fabric-1.21.5-21.4.0.61.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b0d992bf5aa245b9b855614d40c8c74f0b8416d1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HXF82T3G/versions/Vfsy0Fue/BiomesOPlenty-fabric-1.21.5-21.4.0.61.jar"
+hash-format = "sha512"
+hash = "ad5255c244687b9ffd11a1e625a265993537672b3788ea84af24bd24177b8a81692d62b412b6cf0f4ac1600f4065f1aed45247792b84fed512aed1bed4d57ab8"
 
 [update]
-[update.curseforge]
-file-id = 6602038
-project-id = 220318
+[update.modrinth]
+mod-id = "HXF82T3G"
+version = "Vfsy0Fue"

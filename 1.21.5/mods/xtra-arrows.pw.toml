@@ -3,11 +3,11 @@ filename = "xtraarrows-3.7.3-fabric-mc1.21.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0cda68427a6ceb9e8910141f2b30d2cae8e61ed3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NROnqTK4/versions/Tef9itot/xtraarrows-3.7.3-fabric-mc1.21.5.jar"
+hash-format = "sha512"
+hash = "cbc6cc31bbddd561700d03359735abcca8f7a7cc044b94901d0a578b3f5169fb614a7cf0143ccb330f76897571c5c2068179fae4736ce00a8e537e6f4e68327a"
 
 [update]
-[update.curseforge]
-file-id = 6585907
-project-id = 566441
+[update.modrinth]
+mod-id = "NROnqTK4"
+version = "Tef9itot"

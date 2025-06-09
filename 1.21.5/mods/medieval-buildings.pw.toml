@@ -1,13 +1,13 @@
-name = "Medieval Buildings - New Structures!"
+name = "Medieval Buildings"
 filename = "medieval_buildings-1.21.X-1.1.0-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c3ec99a1e3d78c7089f372ef82d027089d292d2f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/sc9lpPiU/versions/RD2xMuyX/medieval_buildings-1.21.X-1.1.0-fabric.jar"
+hash-format = "sha512"
+hash = "fbf00e4b82343edfd12d9feadcbab3e4dca6855a55c05adfd2f9131daefca265fb6338b110c8628fed114f95d26ab4427c87c0733bdda7911dd1531fc8a944b2"
 
 [update]
-[update.curseforge]
-file-id = 6360779
-project-id = 924590
+[update.modrinth]
+mod-id = "sc9lpPiU"
+version = "RD2xMuyX"

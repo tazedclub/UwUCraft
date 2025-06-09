@@ -3,11 +3,11 @@ filename = "VisualWorkbench-v21.5.0-1.21.5-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "19fc97a56b3c672a8a58ca9337492350ce08e917"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/GLNQXUBq/VisualWorkbench-v21.5.0-1.21.5-Fabric.jar"
+hash-format = "sha512"
+hash = "971c2ab58ccf9bf10589778ca1c8a31058b96ee59815e1fb3baff6854cf630ce56148b6827b4385a99923554beff85fb90206bfae1606f71760eb50bf083278c"
 
 [update]
-[update.curseforge]
-file-id = 6383516
-project-id = 500273
+[update.modrinth]
+mod-id = "kfqD1JRw"
+version = "GLNQXUBq"

@@ -1,0 +1,13 @@
+name = "Beautiful Enchanted Books"
+filename = "Beautiful Enchanted Books - MC 1.21.4 - 6.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDTtLGSV/versions/YLUliurN/Beautiful%20Enchanted%20Books%20-%20MC%201.21.4%20-%206.0.0.zip"
+hash-format = "sha512"
+hash = "5dc06127a2f123c2f75ccdd50efcbb1e4d6b85c31ba99011dfc33a7a6a15cb1ba8616204446e079a7784e74dcf2e1df3d9155a701a116826cb0d3eca252f43f4"
+
+[update]
+[update.modrinth]
+mod-id = "VDTtLGSV"
+version = "YLUliurN"

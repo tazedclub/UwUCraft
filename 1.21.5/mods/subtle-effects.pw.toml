@@ -3,11 +3,11 @@ filename = "SubtleEffects-fabric-1.21.5-1.10.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "634603f4a77099e5a827e2efe9826e038d853b23"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/Pn6mpASq/SubtleEffects-fabric-1.21.5-1.10.1.jar"
+hash-format = "sha512"
+hash = "4bf89b937a74d19269f0437db6157716365baee96163219001f9f8a86fbbb2cbf19455eaa5dfa5ae5ec5f8c579ba98c6b21eb2f265f2eafeb6498343921b0f01"
 
 [update]
-[update.curseforge]
-file-id = 6602555
-project-id = 1023913
+[update.modrinth]
+mod-id = "4q8UOK1d"
+version = "Pn6mpASq"

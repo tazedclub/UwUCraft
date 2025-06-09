@@ -3,11 +3,11 @@ filename = "easy_mob_farm-fabric-1.21.5-10.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b2a348abffdfc30f3e582c89837625aa5fee7a50"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/crxsDbEo/versions/vMNNfdXv/easy_mob_farm-fabric-1.21.5-10.0.0.jar"
+hash-format = "sha512"
+hash = "9b6b5f03e1c60de16522d962f65d2e3c465a149b8d83635b9ccd2012a0abf130891dad4e7d6358013c591892f46b4673b427467a392fb8ede0a15e4e54ea7ada"
 
 [update]
-[update.curseforge]
-file-id = 6585789
-project-id = 563464
+[update.modrinth]
+mod-id = "crxsDbEo"
+version = "vMNNfdXv"

@@ -1,0 +1,13 @@
+name = "Speed Paths"
+filename = "speed-paths-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2KSlu1VD/versions/7Wx44FYY/speed-paths-1.0.1.jar"
+hash-format = "sha512"
+hash = "5251d14cd84313419133413d6dcefb6c4c3d03d8a4b39f81eef5a42119129e36da5bacc76963b42d0960be0316ffa40a01fe35dc7c10a8d103442853f85a398b"
+
+[update]
+[update.modrinth]
+mod-id = "2KSlu1VD"
+version = "7Wx44FYY"
