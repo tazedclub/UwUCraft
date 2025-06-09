@@ -1,0 +1,13 @@
+name = "Xtra Arrows"
+filename = "xtraarrows-3.7.3-fabric-mc1.21.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cda68427a6ceb9e8910141f2b30d2cae8e61ed3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6585907
+project-id = 566441

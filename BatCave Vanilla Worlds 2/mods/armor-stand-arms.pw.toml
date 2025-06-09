@@ -1,0 +1,13 @@
+name = "Armor Stand Arms (RPG Theme)"
+filename = "armorstandarms-fabric-1.21-1.0.1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6c03f7465f1d4c5ecc510f476116f66cc7c269d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5853401
+project-id = 1048775

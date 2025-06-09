@@ -1,0 +1,13 @@
+name = "MonoLib"
+filename = "monolib-fabric-1.21.5-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ad331f90542f4c23ed72c36e7449d378bc4a2ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6544187
+project-id = 968432

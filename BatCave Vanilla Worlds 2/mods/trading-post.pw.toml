@@ -1,0 +1,13 @@
+name = "Trading Post [Forge & Fabric]"
+filename = "TradingPost-v21.5.0-1.21.5-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26a2b1e0766396f3653efd1c28a3ec7a8b86aa55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6377045
+project-id = 539057

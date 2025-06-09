@@ -1,0 +1,16 @@
+name = "Bat Cave Vanilla Worlds 2"
+author = "JonnyB and meludoge"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b3299c8deb7a6758e73d82939fef72f4850c3e017880eae6c6425e5a741bd251"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.5"
+
+[options]
+acceptable-game-versions = ["1.21.5"]

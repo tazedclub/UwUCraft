@@ -1,0 +1,13 @@
+name = "Too Many Paintings!"
+filename = "toomanypaintings-24.11.29-1.21.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "126dba7a0eb3c6261797543135371fcbe1678f0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5947931
+project-id = 988773

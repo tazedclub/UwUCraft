@@ -1,0 +1,13 @@
+name = "Unwrecked Ships (Fabric)"
+filename = "Unwrecked Ships Plus 2.0.6 Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ed0ff5c2582fb40b5e3a32b98c1900d8712e963"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6347385
+project-id = 721752

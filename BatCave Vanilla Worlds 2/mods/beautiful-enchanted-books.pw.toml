@@ -1,0 +1,13 @@
+name = "Beautiful Enchanted Books [MOD EDITION] | 4.0 UPDATE!"
+filename = "BEB-Fabric-1.21.5-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b040ca213de50fd2ce435c2c5abd5f625e4f0eff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6481370
+project-id = 1083202
