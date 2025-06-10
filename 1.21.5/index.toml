@@ -314,7 +314,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/bestvanillaworld_layout.txt"
-hash = "7f9f742df6ac362ff7918a8c0d3f966fb08b7a459cc9cf8a7cc909cee0459d2c"
+hash = "3a4a247f396786b20cd16c6386e19f727cff55ff3a1accae4f8097bbe0daf3b9"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
