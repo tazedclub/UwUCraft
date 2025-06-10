@@ -784,6 +784,11 @@ hash = "d7007a228eae3f5261482569fabece1dcf8ddfd451b63e75c20d1dff51ce814b"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "e17de75633cfc66dfb14744946033d4d70943bfbcd97327c8937c48c7cf5792e"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "fa899344b1c080f7b33f9b68068f3e7f66d55d3ed78ea6995aab540c36bc2755"
 metafile = true
@@ -821,6 +826,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "bd31c2f58a8318819b0dbd35681015c90e2e8b2ff2552de7e0db90fec2857322"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "67e3131ad3d2363b7d6c0fcd16fef742d8396b4e2b818b3df4260318a6006d39"
 metafile = true
 
 [[files]]
