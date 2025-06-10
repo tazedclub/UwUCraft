@@ -1374,6 +1374,11 @@ hash = "2fcbe0a98ff51dc54a24d983251f478c29d4d6cbe731abb3e7e002263931a317"
 metafile = true
 
 [[files]]
+file = "mods/waddles.pw.toml"
+hash = "05f3a07760a5ef6b3ca4f598d40e0f24a638ad947c5b6fb349c1e18cd9d0bd60"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "3e208c6e541fb31539f4fad1bb5855c3de04d2be6a8464a92265adf708e640c0"
 metafile = true
