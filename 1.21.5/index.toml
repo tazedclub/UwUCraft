@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "0ecc8df3b8cc35aaae4ea7757417a8050e99657e683e7b7e05410aeedfc28d0b"
-metafile = true
-
-[[files]]
 file = "config/#STOP_MOD_REPOSTS.txt"
 hash = "e29c7c38cce10433b051e1e1c011b0f1e712a1c34f531ce9eba01ed0f1cf55af"
 
@@ -1409,6 +1399,16 @@ hash = "72bc7873d0621edd950b3fb58cbe36bc50b5075bfbc1c0c6f193599098145292"
 metafile = true
 
 [[files]]
-file = "solas-shader.pw.toml"
-hash = "a208aec850fa815c18299cff9ec5c9c46668c6628318a60191e17792835dce6e"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "883ec8370ad80d4be5a7f89b834b466157ad39ecfa7b1919412c2298ad6d27af"
 metafile = true
