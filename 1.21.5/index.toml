@@ -1109,6 +1109,11 @@ hash = "754b32fc4f858a68681e661614a970fdd690467667a878eb0895deedc3197097"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "8977ef4284b22494a5217802443c05a5d38205751978aa10e60f45da1a5040ee"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
@@ -1266,6 +1271,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "e3d0796b80ddb12cb707de25ed73dc18d9c6b168bb52b821a162a73860f2af90"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
 metafile = true
 
 [[files]]
