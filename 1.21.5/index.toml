@@ -1319,11 +1319,6 @@ hash = "9cc3101b8ef8da197aa54568b544403f056bf4e24ecd286b1d129c7d8dfe5f09"
 metafile = true
 
 [[files]]
-file = "mods/server-chat-sync.pw.toml"
-hash = "df4da583d97be6d6388cfee242588045e698afee43be092498c9f9b36d6b81b1"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
