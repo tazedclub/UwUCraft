@@ -1254,11 +1254,6 @@ hash = "3ecb49498a9bfd8fb1f980236dbca36d42d5b458f539770b4b4124ffad9d76b5"
 metafile = true
 
 [[files]]
-file = "mods/pedestals-display-your-items!.pw.toml"
-hash = "64f47f9fbb4f5aed0baf4452088dbe44cf9f1c214d049de92bf7156d13dbd068"
-metafile = true
-
-[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "1be3a58a0b80228e8db132078a33378a438dab43c760b2bcf41817b66220cf47"
 metafile = true
