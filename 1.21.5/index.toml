@@ -1274,11 +1274,6 @@ hash = "b7518f74600769888c9eeabd231909aeae601e7c29e245d951d068fef57288cd"
 metafile = true
 
 [[files]]
-file = "mods/pocketmachines.pw.toml"
-hash = "45c4cdb5fb322a1e2861191d2e79cb8aff41c6dc562508272812a175ff2b4365"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "86e1d2e85c9b71d8b0d3710b04ca305aeda417656fbf86a6ea7264a5acf08dcf"
 metafile = true
