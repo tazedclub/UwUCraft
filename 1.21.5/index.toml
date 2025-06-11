@@ -819,6 +819,16 @@ hash = "b37d9f4fb121ed3f9e766cebf90007f9ed73cd082571772364deb6a05f8d2123"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "2677473222372173091ab8486ed4ae001aa13141853a0814e754c0cebbff63bc"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "11facdbdf70a731b0d9b851cd75033372ce85e295628211989561f0c982f71bf"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "5922a86a296644a5a6771522eeb792546e89a0d806dbc27dbb5a9f5934bb3683"
 metafile = true
@@ -966,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "1786b498f433c215822363bf6c380df4070dd74a679060e1a4fceea16f7f27c7"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "8a06ed8d4ff371ef04854d2b291b134b48b4f4a99095b0f0d249d86c3ba60986"
 metafile = true
 
 [[files]]
@@ -1239,6 +1254,11 @@ hash = "3ecb49498a9bfd8fb1f980236dbca36d42d5b458f539770b4b4124ffad9d76b5"
 metafile = true
 
 [[files]]
+file = "mods/pedestals-display-your-items!.pw.toml"
+hash = "64f47f9fbb4f5aed0baf4452088dbe44cf9f1c214d049de92bf7156d13dbd068"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "1be3a58a0b80228e8db132078a33378a438dab43c760b2bcf41817b66220cf47"
 metafile = true
@@ -1256,6 +1276,11 @@ metafile = true
 [[files]]
 file = "mods/player-graves.pw.toml"
 hash = "b7518f74600769888c9eeabd231909aeae601e7c29e245d951d068fef57288cd"
+metafile = true
+
+[[files]]
+file = "mods/pocketmachines.pw.toml"
+hash = "45c4cdb5fb322a1e2861191d2e79cb8aff41c6dc562508272812a175ff2b4365"
 metafile = true
 
 [[files]]
@@ -1329,13 +1354,18 @@ hash = "46710c64bb9fd2cbb627eda3e9b5c675eda4cf7a428ca5df1009154d471423e2"
 metafile = true
 
 [[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "ba825518bc8e78008792a36aba1f996f1cf4081942b2da79a2f25380e2540755"
+metafile = true
+
+[[files]]
 file = "mods/structory.pw.toml"
 hash = "904ad5b0b32e5875203ded1e5f98995d2b93441e42c9a82fa6ca884a933a729d"
 metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "241480c3041990df3e47e18c99a282691b7de5d2d1d76714824758e29d747173"
+hash = "f36842f02b5f49c02f713aef1db4af8eea705a766675f4ab9133d6d009ccc3ab"
 metafile = true
 
 [[files]]
