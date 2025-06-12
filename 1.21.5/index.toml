@@ -357,6 +357,10 @@ file = "config/goblintraders-entities.toml"
 hash = "5b31e7aeac36ac04da8f10c966c323756c04ef50f345540d11dba5d00a02f973"
 
 [[files]]
+file = "config/gravestones.json"
+hash = "61fd488eb4ee73487f074d4c1736bd0d3729306d8abe01edcd917a038865f6da"
+
+[[files]]
 file = "config/illagerinvasion-server.toml"
 hash = "8a0b55eb9296f5897140db1adceecb037b7b06aff74cee1a5255e9c3013f942c"
 
@@ -1264,8 +1268,8 @@ hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
 metafile = true
 
 [[files]]
-file = "mods/player-graves.pw.toml"
-hash = "b7518f74600769888c9eeabd231909aeae601e7c29e245d951d068fef57288cd"
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "2acd366e900cbd15ce4fdd09e3d81f1d3d9cbd017dc0cf2eec00cf5b54533893"
 metafile = true
 
 [[files]]
