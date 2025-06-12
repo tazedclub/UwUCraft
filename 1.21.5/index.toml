@@ -975,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "8a06ed8d4ff371ef04854d2b291b134b48b4f4a99095b0f0d249d86c3ba60986"
+hash = "ffbb20a205d444b388a0172efff85171d83f2579acf9dc3d9a308237f72384a1"
 metafile = true
 
 [[files]]
@@ -1326,6 +1326,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "6e6d211a726a79c4e9ce7a82ced3c06fd61d19a5c4a583531388962930e835fd"
+metafile = true
+
+[[files]]
+file = "mods/spanish-delight-refabricated.pw.toml"
+hash = "f9e29c83489e6e2b4ecafefc52e89a8bc82d7d34ca3e08f712a864282cdcc176"
 metafile = true
 
 [[files]]
