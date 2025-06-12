@@ -1308,6 +1308,11 @@ hash = "39572fda5f90bf8b65c555f6b8589143a0c45c3e1bbb431c64f4b11027236d45"
 metafile = true
 
 [[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "f0b4fc7106cd917c0bbd9c9d43d0368691ebdfab197e25b59e71881e4bcd776a"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
 metafile = true
@@ -1345,6 +1350,11 @@ metafile = true
 [[files]]
 file = "mods/speed-paths.pw.toml"
 hash = "46710c64bb9fd2cbb627eda3e9b5c675eda4cf7a428ca5df1009154d471423e2"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "056ab26b85df7fe6c4438c3d81f5342416326f3aa3725eea5531180958dda5a2"
 metafile = true
 
 [[files]]
