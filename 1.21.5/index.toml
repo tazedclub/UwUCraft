@@ -237,10 +237,6 @@ file = "config/fallingleaves2.json"
 hash = "cb9d4d481a63cddaf7e90a3e3f8c5bb134cd0be8f1401b1f808c55bf0ab4572f"
 
 [[files]]
-file = "config/fallingtree.json"
-hash = "e8090dc726df72aca6232be1cc772eef054ccfd6de15beaeebc17b409b1832d3"
-
-[[files]]
 file = "config/fancymenu/assets/bg.png"
 hash = "6826a993bba998b79ccdd2bd37648a63c28b98552fa2293222bf6af43feb9f91"
 
@@ -609,6 +605,10 @@ file = "config/travelersbackpack.json5"
 hash = "d7398e34b04137bdc20d16a6cc1d1c5e8b6a4f70bad01ec0fc4b32f9ae98e53c"
 
 [[files]]
+file = "config/treeharvester.json5"
+hash = "b5813cb059623da0e7ca02c0be1acf55cc7aa375515a6582b2740206974ac634"
+
+[[files]]
 file = "config/villagernames.json5"
 hash = "c6a90f762893e4b57c5ef6bd5fcc6a29180e8cb69c6fce3959bacb2ecf9041ea"
 
@@ -966,11 +966,6 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
-metafile = true
-
-[[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "01b2b4c77f6ea277a5f07c7ba8de455a7d17df14a66358cd6ac1255baa8a1580"
 metafile = true
 
 [[files]]
@@ -1396,6 +1391,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "a9166928c2cb7437ba9536007b784cd35479003c57e93d345902abb366f859e3"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "f0d27c3c15ff256e1490f796416aab577d1fd6977cdc46d103ce56e37d5d5fa0"
 metafile = true
 
 [[files]]
