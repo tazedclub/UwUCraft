@@ -60,7 +60,7 @@ inventoryButtonY = 60
 enableCooldowns = true
 
 # Set to false to simply disable all xp costs. See warpRequirements for more fine-grained control.
-enableCosts = true
+enableCosts = false
 
 # List of entities that cannot be teleported, either as pet, leashed, or on warp plates.
 entityDenyList = [ "minecraft:wither" ]
@@ -85,7 +85,7 @@ warpRequirements = [
 [worldGen]
 
 # Approximate chunk distance between wild waystones being generated. Set to 0 to disable generation.
-chunksBetweenWildWaystones = 25
+chunksBetweenWildWaystones = 15
 
 # Set to 'preset_first' to first use names from the nameGenerationPresets. Set to 'preset_only' to use only those custom names. Set to 'mixed' to have some waystones use custom names, and others random names.
 nameGenerationMode = "preset_first"
@@ -97,7 +97,7 @@ nameGenerationPresets = [  ]
 nameGenerationTemplate = "{MrPork}"
 
 # Set to "regular" to have waystones spawn in some villages. Set to "frequent" to have waystones spawn in most villages. Set to "disabled" to disable waystone generation in villages. Waystones will only spawn in vanilla or supported villages.
-spawnInVillages = "regular"
+spawnInVillages = "frequent"
 
 # Set to 'default' to only generate the normally textured waystones. Set to 'mossy' or 'sandy' to generate all as that variant. Set to 'biome' to make the style depend on the biome it is generated in.
 wildWaystoneStyle = "biome"
