@@ -772,6 +772,11 @@ hash = "4d9384164f3f43ffa0aeb06d260cc4e2d618ed4f65053b9df595ddc359ec5651"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "f6381a4e3e270d5fcd7e4acdf5a96d0c63fd24190c43c910a5827bc7297c30e3"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "524baaf1cb40748c8d5707b07fb3aee0cc81092f925c2d327eba36dccc9d4821"
 metafile = true
