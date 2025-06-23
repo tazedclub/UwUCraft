@@ -121,14 +121,6 @@ file = "config/defaultoptions-common.toml"
 hash = "81d7a59e19b61776973ce2729d4d09d77c1005b262f973f96354f4f36254a630"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "5d57373170720a37bc88878b1551c1ea0ab133c941d57e73655491d26dcc5695"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "3f9dbcd46134fbc9b77e8adb4f730c7ac7cbe9507d24158f191af3550d40cea4"
-
-[[files]]
 file = "config/disenchanting_table-client.toml"
 hash = "9533cd0c0bb7a22df2f9037d09fbabf87a6f6ae66e18f8699658aa3cbe508dfb"
 
@@ -358,7 +350,7 @@ hash = "5b31e7aeac36ac04da8f10c966c323756c04ef50f345540d11dba5d00a02f973"
 
 [[files]]
 file = "config/gravestones.json"
-hash = "61fd488eb4ee73487f074d4c1736bd0d3729306d8abe01edcd917a038865f6da"
+hash = "be961e6e9fdbd6605f74d5f4a57dabdd053df7004438257e881ea13e069a65ec"
 
 [[files]]
 file = "config/illagerinvasion-server.toml"
@@ -658,7 +650,7 @@ hash = "aa4db2b626c3eafaa34a00eb007a85dde519015a6ed31d381696e9eae0fe7d4f"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "00afce37e08ea8521acf4d5d495b628ae651dec603c022840d39b724acb419c7"
+hash = "bcc7c46f3d72ba0fe87b270ad35fb5568d53fef7c5504d054fa58032cb2c96ad"
 
 [[files]]
 file = "config/weaponmaster_ydm_config.properties"
