@@ -614,7 +614,7 @@ hash = "c6a90f762893e4b57c5ef6bd5fcc6a29180e8cb69c6fce3959bacb2ecf9041ea"
 
 [[files]]
 file = "config/villagernames/customnames.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "c85a95854d5b993b30f50bc86556adb38748c87ae405c0e6f452ff17c5fb186d"
 
 [[files]]
 file = "config/visualworkbench-client.toml"
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "1786b498f433c215822363bf6c380df4070dd74a679060e1a4fceea16f7f27c7"
+hash = "e6beed665b70e801d4001132c273f3385909db17273a943084f4b7c3fde7b84c"
 metafile = true
 
 [[files]]
