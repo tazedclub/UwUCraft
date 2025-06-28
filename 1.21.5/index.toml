@@ -610,7 +610,7 @@ hash = "b5813cb059623da0e7ca02c0be1acf55cc7aa375515a6582b2740206974ac634"
 
 [[files]]
 file = "config/villagernames.json5"
-hash = "c6a90f762893e4b57c5ef6bd5fcc6a29180e8cb69c6fce3959bacb2ecf9041ea"
+hash = "bd3a24759948f82274a406afb0e47277d848cb469816e46e247e8944163d885a"
 
 [[files]]
 file = "config/villagernames/customnames.txt"
@@ -1305,7 +1305,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
+hash = "fb968012652cc09eddfcd7972cc6162cb05364f73eeed5b3e90609c0a608bfa5"
 metafile = true
 
 [[files]]
