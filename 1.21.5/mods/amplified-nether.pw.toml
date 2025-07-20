@@ -1,13 +1,13 @@
 name = "Amplified Nether"
-filename = "Amplified_Nether_1.21.x_v1.2.9.jar"
+filename = "Amplified_Nether_1.21.x_v1.2.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wXiGiyGX/versions/WZ3ry0pV/Amplified_Nether_1.21.x_v1.2.9.jar"
+url = "https://cdn.modrinth.com/data/wXiGiyGX/versions/9mHpIiie/Amplified_Nether_1.21.x_v1.2.11.jar"
 hash-format = "sha512"
-hash = "1640c7a68ee3ce53e0d6b5cfd367c0d0d3fe2a67b9ee92f5e4c5312cd29c4b228a3e2090f058492832f944ed7cd7d3fe9015d0ebf33413063e52fdd2aa67270e"
+hash = "d577e7afd496ab05d63c1beb468f5828c34bf1946c9288d2ea38126400954177a215a97e6e3865072a711f273921199131f0ee676f9d556b4a2c1215ae2192ce"
 
 [update]
 [update.modrinth]
 mod-id = "wXiGiyGX"
-version = "WZ3ry0pV"
+version = "9mHpIiie"

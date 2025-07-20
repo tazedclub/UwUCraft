@@ -1,0 +1,13 @@
+name = "More Delight (for Farmer's Delight)"
+filename = "moredelight-25.07.17-1.21.7-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/LmVXX2ls/moredelight-25.07.17-1.21.7-fabric.jar"
+hash-format = "sha512"
+hash = "e6cacae92796c840d5192d7b281bdb7d7ff8a23e7fac9f52a9e0598d10cbf054117fdc180882c27d7d0b920d7a9636edf759514f6a5a63216616716a56c50506"
+
+[update]
+[update.modrinth]
+mod-id = "znHQQtuU"
+version = "LmVXX2ls"

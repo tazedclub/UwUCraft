@@ -1,13 +1,13 @@
 name = "Cryonic Config"
-filename = "cryonicconfig-fabric-1.0.0+mc1.21.4.jar"
+filename = "cryonicconfig-fabric-1.0.0+mc1.21.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "04d626564db04e0a946b5245a09b7cfc48ded25b"
+hash = "e7329b18fba93c4aa23c02377d059afff90a7e99"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6244968
+file-id = 6741219
 project-id = 1208896
